@@ -14,12 +14,6 @@ npm install
 
 ## Server
 
-Build server code:
-```
-npm run build_server 
-
-```
-
 If you wish change ```server/server_config.json```
 Then launch the server:
 ```
